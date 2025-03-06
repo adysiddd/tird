@@ -32,7 +32,7 @@ print("\n")
 pwd = input("Enter '0' to use the inbuilt passwords list \nEnter '2' to add a custom password list\n => ")
 
 if pwd=='0':
-    passswfile="Passwords.txt"
+    passswfile="adysid.txt"
 
 else :
     print("\n")
